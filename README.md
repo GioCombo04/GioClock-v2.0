@@ -119,4 +119,3 @@ For support, questions, or suggestions, contact:
 This script is open-source and free to use. Modify and distribute it as you wish, but please credit the original author, **GioCombo**.  
 *Este script es de código abierto y gratuito. Modifícalo y distribúyelo como desees, pero por favor da crédito al autor original, **GioCombo*.*
 
----

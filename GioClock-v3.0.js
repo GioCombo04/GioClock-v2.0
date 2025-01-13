@@ -1,6 +1,6 @@
 registerPlugin({
-    name: 'GioClock-v2.0',
-    version: '2.0',
+    name: 'GioClock-v3.0',
+    version: '3.0',
     description: 'Digital Clock with Date, Time.',
     author: 'GioCombo <email@giocombo.com> <giocombo.com>',
     vars: {
@@ -262,5 +262,5 @@ registerPlugin({
     // Actualizar el reloj inmediatamente al cargar el script
     updateClock();
 
-    engine.log("GioClock-v2.0 ha sido inicializado...");
+    engine.log("GioClock-v3.0 ha sido inicializado...");
 });

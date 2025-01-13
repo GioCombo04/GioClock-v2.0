@@ -1,7 +1,11 @@
-Cambios realizados GioClock-v3.0:
+Changes made in GioClock-v3.0:
 
-1- Verificación individual de canales: • Ahora, el script verifica si cada canal está configurado y existe antes de intentar actualizarlo. • Si un canal no está configurado o no existe, simplemente se omite y el script continúa funcionando con los canales disponibles.
+1- Individual channel verification:
+• The script now checks if each channel is configured and exists before attempting to update it.
+• If a channel is not configured or does not exist, it is simply skipped, and the script continues to function with the available channels.
 
-2- Eliminación de bloqueo: • Se eliminó la lógica que deshabilitaba el script si algún canal no existía. En su lugar, el script simplemente omite los canales faltantes.
+2- Removal of blocking:
+• The logic that disabled the script if a channel did not exist was removed. Instead, the script simply skips missing channels.
 
-3- Actualización condicional: • Cada canal se actualiza solo si está configurado y existe.
+3- Conditional update:
+• Each channel is updated only if it is configured and exists.
